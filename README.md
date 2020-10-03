@@ -30,7 +30,7 @@ The diagram at the end illustrate a simple docker containerisation development w
 
 2) docker run -p 7000:8080 xxjoeseven/showntell:1.0
 
-![Workflow](https://github.com/xxjoeseven/NUSFTST/blob/master/Presentation1.jpg?raw=true)
+![Workflow](https://github.com/xxjoeseven/NUSFTST/blob/master/Presentation1.2.jpg)
 
 
 
